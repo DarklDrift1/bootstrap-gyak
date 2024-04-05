@@ -1,0 +1,23 @@
+
+
+h1, h3 {
+    text-align: center;
+}
+
+Body {
+
+}
+
+.food-pic {
+    height: 300px;
+}
+
+.price {
+    text-align: center;
+    font-weight: bold;
+}
+
+.card {
+    margin: auto;
+    width: 475px;
+}
